@@ -1,3 +1,4 @@
+from colorama import Fore, Style
 #a vareavel calculado_matematica é envido um input para que a pessoa digite
 caluclos_MAtematicos=input("digite o calculo")
 #tera a vareavel resultado que ira puxar o comado eval onde ele puxa a vareavel destacada

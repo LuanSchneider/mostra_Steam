@@ -1,3 +1,5 @@
+int=num1=1
+int= num2=2
 def calculadora_soma():
     num1 = int(input(" primeiro número: "))
     num2 = int(input(" segundo número: "))
